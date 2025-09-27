@@ -13,6 +13,7 @@ public class PlayerShipScript : MonoBehaviour
             traitSystem = gameObject.AddComponent<TraitSystem>();
         }
         DialogUIController.Ensure();
+        TraitsOverlayUI.Ensure();
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -26,6 +27,10 @@ public class PlayerShipScript : MonoBehaviour
         if (Keyboard.current != null && Keyboard.current.tKey.wasPressedThisFrame)
         {
             ShowSampleDialog();
+        }
+        if (Keyboard.current != null && Keyboard.current.cKey.wasPressedThisFrame)
+        {
+            TraitsOverlayUI.Ensure().Toggle(traitSystem);
         }
     }
 
