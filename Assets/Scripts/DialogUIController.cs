@@ -38,7 +38,22 @@ public class DialogUIController : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        defaultFont = Resources.GetBuiltinResource<Font>("Arial.ttf");
+        // Unity removed Arial.ttf from built-in resources in newer versions.
+        // Use LegacyRuntime.ttf when available, and fall back to a common OS font.
+        defaultFont = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        if (defaultFont == null)
+        {
+            // Try to create a dynamic font from common system fonts
+            string[] candidates = new string[] { "Arial", "Helvetica", "Segoe UI", "Noto Sans", "Apple SD Gothic Neo" };
+            try
+            {
+                defaultFont = Font.CreateDynamicFontFromOSFont(candidates, 16);
+            }
+            catch
+            {
+                // ignore and keep null; Text components will still render with Unity's default if possible
+            }
+        }
         BuildUIIfNeeded();
         Hide();
     }
@@ -124,16 +139,22 @@ public class DialogUIController : MonoBehaviour
         rt.sizeDelta = new Vector2(0, 36);
 
         Image img = buttonGO.AddComponent<Image>();
-        img.color = new Color(1, 1, 1, 0.12f);
+        img.color = new Color(1, 1, 1, 0.25f);
 
         Button btn = buttonGO.AddComponent<Button>();
         ColorBlock cb = btn.colors;
-        cb.normalColor = new Color(1, 1, 1, 0.12f);
+        cb.normalColor = new Color(1, 1, 1, 0.25f);
         cb.highlightedColor = new Color(1, 1, 1, 0.2f);
         cb.pressedColor = new Color(1, 1, 1, 0.3f);
         cb.selectedColor = cb.normalColor;
         cb.disabledColor = new Color(1, 1, 1, 0.1f);
         btn.colors = cb;
+
+        // Ensure the VerticalLayoutGroup gives the button space
+        LayoutElement le = buttonGO.AddComponent<LayoutElement>();
+        le.minHeight = 36f;
+        le.preferredHeight = 36f;
+        le.flexibleWidth = 1f;
 
         GameObject textGO = new GameObject("Text");
         textGO.transform.SetParent(buttonGO.transform, false);
