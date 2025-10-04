@@ -18,7 +18,34 @@ public class PlayerShipScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+		// Seed three starter weapons with low stats if empty
+		InventoryManager mgr = InventoryManager.Ensure();
+		if (mgr.GetItems().Count == 0)
+		{
+			InventoryItem w1 = new InventoryItem("wpn_laser_mk1", "Laser Mk I", new Color(1f, 0.35f, 0.35f));
+			w1.baseDamage = 12f; // out of 50
+			w1.baseAccuracyPct = 35f; // %
+			w1.baseShieldBypassPct = 10f; // %
+			w1.baseArmorPenetration = 8f; // out of 50
+			w1.armorShred = 3f; // out of 25
+			mgr.AddItem(w1);
+
+			InventoryItem w2 = new InventoryItem("wpn_rail_mk1", "Railgun Mk I", new Color(0.8f, 0.6f, 1f));
+			w2.baseDamage = 18f;
+			w2.baseAccuracyPct = 25f;
+			w2.baseShieldBypassPct = 5f;
+			w2.baseArmorPenetration = 15f;
+			w2.armorShred = 6f;
+			mgr.AddItem(w2);
+
+			InventoryItem w3 = new InventoryItem("wpn_plasma_mk1", "Plasma Mk I", new Color(1f, 0.6f, 0.2f));
+			w3.baseDamage = 14f;
+			w3.baseAccuracyPct = 20f;
+			w3.baseShieldBypassPct = 20f;
+			w3.baseArmorPenetration = 10f;
+			w3.armorShred = 10f;
+			mgr.AddItem(w3);
+		}
     }
 
     // Update is called once per frame
@@ -32,6 +59,10 @@ public class PlayerShipScript : MonoBehaviour
         {
             TraitsOverlayUI.Ensure().Toggle(traitSystem);
         }
+		if (Keyboard.current != null && Keyboard.current.iKey.wasPressedThisFrame)
+		{
+			InventoryUIController.Ensure().Toggle();
+		}
     }
 
     private void ShowSampleDialog()
