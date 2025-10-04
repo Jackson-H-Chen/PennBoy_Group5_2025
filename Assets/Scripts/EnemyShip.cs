@@ -27,6 +27,8 @@ public class EnemyShip : MonoBehaviour
             int diceRoll = Random.Range(1, 21);
             if (diceRoll > 10) {
                 player.TakeHit();
+            } else {
+                player.turnFlag = 1;
             }
 
             turnFlag = 0;

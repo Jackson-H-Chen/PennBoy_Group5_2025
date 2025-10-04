@@ -308,7 +308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 500
   enemy: {fileID: 744815122}
-  turnFlag: 0
+  turnFlag: 1
   cannonDamage: 100
 --- !u!1 &415461100
 GameObject:
