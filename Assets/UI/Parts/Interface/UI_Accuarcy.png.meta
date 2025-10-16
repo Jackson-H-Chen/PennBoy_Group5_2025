@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: d850f8cf78b2c5f4e9575e206138e85f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 520028317126029765
+    second: UI_Accuarcy_0
+  - first:
+      213: 2104552222544613176
+    second: UI_Accuarcy_1
+  - first:
+      213: -1865330179864911018
+    second: UI_Accuarcy_2
+  - first:
+      213: 5721012771330407807
+    second: UI_Accuarcy_3
+  - first:
+      213: 83179586979043109
+    second: UI_Accuarcy_4
+  - first:
+      213: 1313998654256826021
+    second: UI_Accuarcy_5
+  - first:
+      213: 7777077279497811191
+    second: UI_Accuarcy_6
+  - first:
+      213: -2954241323527603125
+    second: UI_Accuarcy_7
+  - first:
+      213: 5757720891146723617
+    second: UI_Accuarcy_8
+  - first:
+      213: -2722149273014007076
+    second: UI_Accuarcy_9
+  - first:
+      213: -7889738839761034210
+    second: UI_Accuarcy_10
+  - first:
+      213: 1659515336360096117
+    second: UI_Accuarcy_11
+  - first:
+      213: -3198546445801639421
+    second: UI_Accuarcy_12
+  - first:
+      213: 2529442348845685838
+    second: UI_Accuarcy_13
+  - first:
+      213: 4229689769213684391
+    second: UI_Accuarcy_14
+  - first:
+      213: 1454159928997661915
+    second: UI_Accuarcy_15
+  - first:
+      213: -8202449654670894784
+    second: UI_Accuarcy_16
+  - first:
+      213: 7692925819024791176
+    second: UI_Accuarcy_17
+  - first:
+      213: -5934660637774976239
+    second: UI_Accuarcy_18
+  - first:
+      213: -7165778798097157260
+    second: UI_Accuarcy_19
+  - first:
+      213: 3661803786890090841
+    second: UI_Accuarcy_20
+  - first:
+      213: -44137354105146885
+    second: UI_Accuarcy_21
+  - first:
+      213: -1655089460005212616
+    second: UI_Accuarcy_22
+  - first:
+      213: 6622814012636281756
+    second: UI_Accuarcy_23
+  - first:
+      213: -43265477537725197
+    second: UI_Accuarcy_24
+  - first:
+      213: 1471009314668578004
+    second: UI_Accuarcy_25
+  - first:
+      213: -5432029687676956871
+    second: UI_Accuarcy_26
+  - first:
+      213: 5874427078083930743
+    second: UI_Accuarcy_27
+  - first:
+      213: -7504555732744881802
+    second: UI_Accuarcy_28
+  - first:
+      213: -4127545864220763617
+    second: UI_Accuarcy_29
+  - first:
+      213: -8608567508094754173
+    second: UI_Accuarcy_30
+  - first:
+      213: 1123018510776837421
+    second: UI_Accuarcy_31
+  - first:
+      213: 3258315562635785855
+    second: UI_Accuarcy_32
+  - first:
+      213: -3794850641030012994
+    second: UI_Accuarcy_33
+  - first:
+      213: -4058416342200219058
+    second: UI_Accuarcy_34
+  - first:
+      213: -5257959100214408929
+    second: UI_Accuarcy_35
+  - first:
+      213: 527792822646608303
+    second: UI_Accuarcy_36
+  - first:
+      213: 3622761100334815547
+    second: UI_Accuarcy_37
+  - first:
+      213: -4677427829632718867
+    second: UI_Accuarcy_38
+  - first:
+      213: 3280553191921753550
+    second: UI_Accuarcy_39
+  - first:
+      213: -8875482281913434594
+    second: UI_Accuarcy_40
+  - first:
+      213: -4287777236617987969
+    second: UI_Accuarcy_41
+  - first:
+      213: -8549524124472978241
+    second: UI_Accuarcy_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Accuarcy_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 624
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f07bcff2873700800000000000000
+      internalID: 520028317126029765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 630
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fc704981fd43d10800000000000000
+      internalID: 2104552222544613176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 644
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653265895140d16e0800000000000000
+      internalID: -1865330179864911018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 622
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3f96edce156f40800000000000000
+      internalID: 5721012771330407807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 638
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271376c463872100800000000000000
+      internalID: 83179586979043109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c15e60d24c3210800000000000000
+      internalID: 1313998654256826021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f47a3bb49abdeb60800000000000000
+      internalID: 7777077279497811191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 622
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c7b522b2d6007d0800000000000000
+      internalID: -2954241323527603125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 630
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12165a015a887ef40800000000000000
+      internalID: 5757720891146723617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 630
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8964a8abf83ad0800000000000000
+      internalID: -2722149273014007076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 614
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14e07da354028290800000000000000
+      internalID: -7889738839761034210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 625
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5717e0be768c70710800000000000000
+      internalID: 1659515336360096117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 598
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b76444fa7c93d0800000000000000
+      internalID: -3198546445801639421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 606
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cd6ca2a626a1320800000000000000
+      internalID: 2529442348845685838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 566
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae51c6f60e2ba30800000000000000
+      internalID: 4229689769213684391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 526
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc438e30c63e2410800000000000000
+      internalID: 1454159928997661915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_16
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 542
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049d05d5f7b0b2e80800000000000000
+      internalID: -8202449654670894784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 422
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88657660643c2ca60800000000000000
+      internalID: 7692925819024791176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_18
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 406
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bede6d799d3ada0800000000000000
+      internalID: -5934660637774976239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 302
+        width: 14
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b468262a0e8c90800000000000000
+      internalID: -7165778798097157260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 293
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95993c2a42751d230800000000000000
+      internalID: 3661803786890090841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_21
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 283
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1bc3f6f41336ff0800000000000000
+      internalID: -44137354105146885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_22
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 230
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e65e8b7e0f709e0800000000000000
+      internalID: -1655089460005212616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 158
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3aac5146f8eb50800000000000000
+      internalID: 6622814012636281756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f48354074a466ff0800000000000000
+      internalID: -43265477537725197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d48c1e8d231a6410800000000000000
+      internalID: 1471009314668578004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f83a877cd8d94b0800000000000000
+      internalID: -5432029687676956871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae020bd48268150800000000000000
+      internalID: 5874427078083930743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679be9862567ad790800000000000000
+      internalID: -7504555732744881802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a1df8b7e208b6c0800000000000000
+      internalID: -4127545864220763617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_30
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 22
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382ea072679388880800000000000000
+      internalID: -8608567508094754173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_31
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 14
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25aa03b263c59f00800000000000000
+      internalID: 1123018510776837421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_32
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76780dadbcd73d20800000000000000
+      internalID: 3258315562635785855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf1ebda27bf55bc0800000000000000
+      internalID: -3794850641030012994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a0484d6db9da7c0800000000000000
+      internalID: -4058416342200219058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1900346e0af707b0800000000000000
+      internalID: -5257959100214408929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_36
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 12
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11adc96c8135700800000000000000
+      internalID: 527792822646608303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b395f8bc602a64230800000000000000
+      internalID: 3622761100334815547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72738cb20761fb0800000000000000
+      internalID: -4677427829632718867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_39
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd15473fbdd68d20800000000000000
+      internalID: 3280553191921753550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb64093e3f3d480800000000000000
+      internalID: -8875482281913434594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 4
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f0672251ce74c0800000000000000
+      internalID: -4287777236617987969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Accuarcy_42
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d72a2b1df95980800000000000000
+      internalID: -8549524124472978241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Accuarcy_0: 520028317126029765
+      UI_Accuarcy_1: 2104552222544613176
+      UI_Accuarcy_10: -7889738839761034210
+      UI_Accuarcy_11: 1659515336360096117
+      UI_Accuarcy_12: -3198546445801639421
+      UI_Accuarcy_13: 2529442348845685838
+      UI_Accuarcy_14: 4229689769213684391
+      UI_Accuarcy_15: 1454159928997661915
+      UI_Accuarcy_16: -8202449654670894784
+      UI_Accuarcy_17: 7692925819024791176
+      UI_Accuarcy_18: -5934660637774976239
+      UI_Accuarcy_19: -7165778798097157260
+      UI_Accuarcy_2: -1865330179864911018
+      UI_Accuarcy_20: 3661803786890090841
+      UI_Accuarcy_21: -44137354105146885
+      UI_Accuarcy_22: -1655089460005212616
+      UI_Accuarcy_23: 6622814012636281756
+      UI_Accuarcy_24: -43265477537725197
+      UI_Accuarcy_25: 1471009314668578004
+      UI_Accuarcy_26: -5432029687676956871
+      UI_Accuarcy_27: 5874427078083930743
+      UI_Accuarcy_28: -7504555732744881802
+      UI_Accuarcy_29: -4127545864220763617
+      UI_Accuarcy_3: 5721012771330407807
+      UI_Accuarcy_30: -8608567508094754173
+      UI_Accuarcy_31: 1123018510776837421
+      UI_Accuarcy_32: 3258315562635785855
+      UI_Accuarcy_33: -3794850641030012994
+      UI_Accuarcy_34: -4058416342200219058
+      UI_Accuarcy_35: -5257959100214408929
+      UI_Accuarcy_36: 527792822646608303
+      UI_Accuarcy_37: 3622761100334815547
+      UI_Accuarcy_38: -4677427829632718867
+      UI_Accuarcy_39: 3280553191921753550
+      UI_Accuarcy_4: 83179586979043109
+      UI_Accuarcy_40: -8875482281913434594
+      UI_Accuarcy_41: -4287777236617987969
+      UI_Accuarcy_42: -8549524124472978241
+      UI_Accuarcy_5: 1313998654256826021
+      UI_Accuarcy_6: 7777077279497811191
+      UI_Accuarcy_7: -2954241323527603125
+      UI_Accuarcy_8: 5757720891146723617
+      UI_Accuarcy_9: -2722149273014007076
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

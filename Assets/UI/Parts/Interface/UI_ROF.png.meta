@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 42b6851f4f624da428527f223fd33fcb
+guid: e0a8de7bf40e4d74e926231b8003c3f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5315776446910491305
-    second: UI_Armor_Inner_0
+      213: -6693853151717231305
+    second: UI_ROF_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_Armor_Inner_0
+      name: UI_ROF_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 410
-        height: 436
+        x: 24
+        y: 42
+        width: 481
+        height: 473
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9aaec77a38e65c940800000000000000
-      internalID: 5315776446910491305
+      spriteID: 735f3492608aa13a0800000000000000
+      internalID: -6693853151717231305
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      UI_Armor_Inner_0: 5315776446910491305
+      UI_ROF_0: -6693853151717231305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
