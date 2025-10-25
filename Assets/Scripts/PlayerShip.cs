@@ -7,6 +7,9 @@ public class PlayerShip : MonoBehaviour
     public EnemyShip enemy;
     public int turnFlag = 1;
 
+    public float armor = 30.0f;
+    public int shieldCount = 0;
+
     public int cannonDamage = 100;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -40,8 +43,20 @@ public class PlayerShip : MonoBehaviour
     }
 
     public void TakeHit() {
+        // Use formula to calculate damage taken
+        // Old Dummy formula: hp -= enemy.cannonDamage;
+
         hp -= enemy.cannonDamage;
-        Debug.Log("You suffered a hit to your hull! You have " + hp + " remaining.");
+
+        if (shieldCount > 0) {
+            // Decrement 
+            shieldCount -= 1;
+            Debug.Log("Your shield takes the brunt of the damage!");
+        } else {
+            // Take damage (TODO: formula here)
+
+            Debug.Log("You suffered a hit to your hull! You have " + hp + " remaining.");
+        }
 
         if (hp <= 0)
         {

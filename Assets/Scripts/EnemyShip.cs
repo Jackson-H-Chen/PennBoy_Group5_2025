@@ -7,6 +7,9 @@ public class EnemyShip : MonoBehaviour
     public PlayerShip player;
     public int turnFlag = 0;
 
+    public float armor = 30.0f;
+    public int shieldCount = 0;
+
     public int cannonDamage = 100;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
